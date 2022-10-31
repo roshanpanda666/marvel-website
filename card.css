@@ -81,6 +81,8 @@ background: linear-gradient(176deg, rgba(241,241,241,1) 20%, rgba(194,131,125,1)
     color: #fff;
     background: rgb(175,16,1);
     background: linear-gradient(176deg, rgba(175,16,1,1) 0%, rgba(0,0,0,1) 84%);
+    width: 270px;
+    height: 420px;
 }
 
 .card2:hover{
@@ -88,7 +90,8 @@ background: linear-gradient(176deg, rgba(241,241,241,1) 20%, rgba(194,131,125,1)
     color: #fff;
     background: rgb(5,0,113);
     background: linear-gradient(176deg, rgba(5,0,113,1) 21%, rgba(43,2,91,1) 46%, rgba(149,0,0,1) 77%, rgba(181,11,11,1) 95%);
-    
+    width: 280px;
+    height: 420px;
 }
 
 .card3:hover{
@@ -96,7 +99,8 @@ background: linear-gradient(176deg, rgba(241,241,241,1) 20%, rgba(194,131,125,1)
     color: #fff;
     background: rgb(0,0,0);
     background: linear-gradient(176deg, rgba(0,0,0,1) 21%, rgba(255,0,0,1) 95%, rgba(255,184,0,1) 100%);
-    
+    width: 280px;
+    height: 420px;
 }
 
 a {
