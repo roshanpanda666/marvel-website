@@ -31,6 +31,8 @@ background: linear-gradient(176deg, rgba(241,241,241,1) 20%, rgba(194,131,125,1)
     border: 1px solid red;
     transition-duration: 1s;
     border-radius: 30px;
+    padding:10px;
+    margin-bottom: 5px;
 }
 .card2{
     width: 260px;
@@ -38,6 +40,8 @@ background: linear-gradient(176deg, rgba(241,241,241,1) 20%, rgba(194,131,125,1)
     border: 1px solid red;
     transition-duration: 1s;
     border-radius: 30px;
+    padding:10px;
+    margin-bottom: 5px;
 }
 .card3{
     width: 260px;
@@ -45,6 +49,8 @@ background: linear-gradient(176deg, rgba(241,241,241,1) 20%, rgba(194,131,125,1)
     border: 1px solid red;
     transition-duration: 1s;
     border-radius: 30px;
+    padding:10px;
+    margin-bottom: 5px;
 }
 .flex-gap > .container{
     margin: 6px;
